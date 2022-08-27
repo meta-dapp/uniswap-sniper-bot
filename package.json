@@ -1,0 +1,36 @@
+{
+  "name": "uniswap-sniper-bot-with-gui",
+  "version": "1.0.0",
+  "description": "A Uniswap Sniper Bot with GUI",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/meta-dapp/uniswap-sniper-bot-gui",
+  "keywords": [
+    "uniswap",
+    "sniper bot",
+    "uniswap sniper bot",
+    "uniswap sniper bot",
+    "sniper bot with gui",
+    "trading bot nodejs"
+  ],
+  "author": "meta-dapp",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^19.0.8",
+    "electron-reload": "^2.0.0-alpha.1",
+    "electron-reloader": "^1.2.3"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9",
+    "evm-bn": "^1.1.1",
+    "node-storage": "0.0.9",
+    "url": "^0.11.0",
+    "urlencode": "^1.1.0",
+    "web3": "^1.7.4"
+  }
+}
