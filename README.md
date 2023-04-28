@@ -25,7 +25,7 @@ npm start
 Para abrir con el devtool...
 
 ```sh
-npm star dev
+npm start dev
 ```
 
 ## Licencia/License
